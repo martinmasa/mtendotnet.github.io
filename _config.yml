@@ -1,0 +1,12 @@
+# Site settings
+title: m-ten.net
+email:
+description: > # this means to ignore newlines until "baseurl:"
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://m-ten.net" # the base hostname & protocol for your site
+twitter_username: mtendotnet
+github_username:  mtendotnet
+
+# Build settings
+markdown: kramdown
